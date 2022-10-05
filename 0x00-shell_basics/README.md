@@ -5,3 +5,7 @@
 2-bring_me_home file == changes the working directory to the user’s /root directory.
 
 3-listfiles file == list file in long format
+
+4-listmorefiles file == Display current directory contents, including hidden files (starting with .). Use the long format.
+
+
