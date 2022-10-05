@@ -15,3 +15,5 @@
 7-movethatfile file == Move the file betty from /tmp/ to /tmp/my_first_directory.
 
 8-firstdelete file == Delete the file betty
+
+9-firstdirdeletion file == Delete the directory my_first_directory that is in the /tmp directory.
