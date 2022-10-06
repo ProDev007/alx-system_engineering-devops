@@ -16,4 +16,9 @@ d3-new_owner == changes the owner of the file hello to the user betty
 
 7-everybody == adds execution permission to the owner, the group owner and the other users, to the file hello
 
+8-James_Bond == script that sets the permission to the file hello as follows:
+
+Owner: no permission at all
+Group: no permission at all
+Other users: all the permissions
 
