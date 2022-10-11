@@ -2,4 +2,6 @@
 
 1-hello_you == A script that prints hello user, where user is the current Linux user. 
 
-2-path == Add /action to the PATH. /action  
+2-path == Add /action to the PATH. /action 
+
+4-global_variables == A script that lists environment variables.  
