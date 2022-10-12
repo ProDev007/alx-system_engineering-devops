@@ -4,6 +4,8 @@
 
 2-path == Add /action to the PATH. /action 
 
+3-paths == A script that counts the number of directories in the PATH. 
+
 4-global_variables == A script that lists environment variables. 
 
 5-local_variables == A script that lists all local variables and environment variables, and functions. 
@@ -19,5 +21,7 @@
 10-love_exponent_breath == A script that displays the result of BREATH to the power LOVE 
 
 11-binary_to_decimal == A script that converts a number from base 2 to base 10 
+
+12-combinations == A script that prints all possible combinations of two letters, except oo.  
 
 13-print_float == A script that prints a number with two decimal places,    
